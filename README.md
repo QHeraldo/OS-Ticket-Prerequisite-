@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure
 - Laptop
 - OS Ticket
-- Remote Desk Top
+- Remote Desktop
 
 <h2>Installation Steps</h2>
 
@@ -41,7 +41,7 @@ Login to azure and create a new Resource group.Once thats complete create a new 
 <img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After Virtual machine and network has been Created You cann now remote into it using Remote desktop on your PC.
+After the Virtual machine and network have been created, you can now log in to it using Remote Desktop on your PC.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ After Virtual machine and network has been Created You cann now remote into it u
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in to the virtual computer using the IP address provided in Azure and open  Microsoft Edge. Go to https://osticket.com/editions/. Download the OS ticket to your VM.
 </p>
 <br />
 
@@ -57,6 +57,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the OS ticket has finished downloading, you can open the software on the virtual machine and use the OS ticket to troubleshoot and create your own ticketing system within your virtual environment.
 </p>
 <br />
