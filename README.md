@@ -29,8 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p> ![Alt text](https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png)
-</> : :After
+<p>
+  <img src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="55%" width="55" Alt=Disk Sanitization Steps"/>
+</> 
 </p>
 <p>
 Login to azure and create a new Resource group.Once thats complete create a new virtual machine in azure and a new Virtual net work.
