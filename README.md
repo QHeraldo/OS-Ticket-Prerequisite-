@@ -39,7 +39,7 @@ Login to azure and create a new Resource group.Once thats complete create a new 
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After the Virtual machine and network have been created, you can now log in to it using Remote Desktop on your PC.
