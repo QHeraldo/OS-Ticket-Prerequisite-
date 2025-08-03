@@ -47,7 +47,7 @@ After the Virtual machine and network have been created, you can now log in to i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log in to the virtual computer using the IP address provided in Azure and open  Microsoft Edge. Go to https://osticket.com/editions/. Download the OS ticket to your VM.
