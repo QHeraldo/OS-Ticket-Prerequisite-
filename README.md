@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" heighet="80%" width="80" Alt=Disk Sanitization Steps"/>
+  <img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" heighet="200" width="200" Alt=Disk Sanitization Steps"/>
 </> 
 </p>
 <p>
