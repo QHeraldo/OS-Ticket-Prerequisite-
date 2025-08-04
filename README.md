@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <img src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="80%" width="80" Alt=Disk Sanitization Steps"/>
+  <img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" heighet="80%" width="80" Alt=Disk Sanitization Steps"/>
 </> 
 </p>
 <p>
@@ -47,7 +47,7 @@ After the Virtual machine and network have been created, you can now log in to i
 <br />
 
 <p>
-<img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" alt="Disk Sanitization Steps"/>
+<img src="https://faq.owens.edu/__attachments/1885306892/Connect%20with%20RDP.PNG?inst-v=5113e176-a620-4885-801c-a2b1f322a2b1"/>
 </p>
 <p>
 Log in to the virtual computer using the IP address provided in Azure and open  Microsoft Edge. Go to https://osticket.com/editions/. Download the OS ticket to your VM.
