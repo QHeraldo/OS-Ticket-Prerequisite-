@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.<br />
+<h1>osTicket - Installation</h1>
+This tutorial outlines the installation of the open-source help desk ticketing system, osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" heighet="200" width="200" Alt=Disk Sanitization Steps"/>
+  <img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" heighet="400" width="400" Alt=Disk Sanitization Steps"/>
 </> 
 </p>
 <p>
@@ -39,7 +39,7 @@ Login to azure and create a new Resource group.Once thats complete create a new 
 <br />
 
 <p>
-<img src="src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="80%" width="80%" Alt=Disk Sanitization Steps"/>
+<img src="https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="500" width="500" Alt=Disk Sanitization Steps"/>
 </p>
 <p>
 After the Virtual machine and network have been created, you can now log in to it using Remote Desktop on your PC.
@@ -55,7 +55,7 @@ Log in to the virtual computer using the IP address provided in Azure and open  
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.inmotionhosting.com/support/wp-content/uploads/2022/01/osticket-tickets-open-default.png" height="640" alt="image" src="https://github.com/user-attachments/assets/a2f426e6-d5aa-4971-b14c-d9169fde9aa5" />
 </p>
 <p>
 After the OS ticket has finished downloading, you can open the software on the virtual machine and use the OS ticket to troubleshoot and create your own ticketing system within your virtual environment.
