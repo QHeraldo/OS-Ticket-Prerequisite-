@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  <img src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="55%" width="55" Alt=Disk Sanitization Steps"/>
+  <img src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="80%" width="80" Alt=Disk Sanitization Steps"/>
 </> 
 </p>
 <p>
@@ -39,7 +39,7 @@ Login to azure and create a new Resource group.Once thats complete create a new 
 <br />
 
 <p>
-<img src="src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="src=https://www.whizlabs.com/blog/wp-content/uploads/2019/08/Creating-a-virtual-machine.png" heighet="80%" width="80%" Alt=Disk Sanitization Steps"/>
 </p>
 <p>
 After the Virtual machine and network have been created, you can now log in to it using Remote Desktop on your PC.
