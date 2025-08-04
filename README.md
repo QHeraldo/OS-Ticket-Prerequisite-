@@ -47,7 +47,7 @@ After the Virtual machine and network have been created, you can now log in to i
 <br />
 
 <p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftranslucentcomputing.github.io%2Fkubert-assistant-lite%2Fazure.html&psig=AOvVaw3g6k6oafljawehwyyhuvQA&ust=1754396848463000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPjT392T8Y4DFQAAAAAdAAAAABAE" alt="Disk Sanitization Steps"/>
+<img src="https://translucentcomputing.github.io/kubert-assistant-lite/assets/images/azure-vm/1_azure-home.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Log in to the virtual computer using the IP address provided in Azure and open  Microsoft Edge. Go to https://osticket.com/editions/. Download the OS ticket to your VM.
